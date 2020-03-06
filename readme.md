@@ -15,7 +15,7 @@ Całość powinna być zrealizowana z użyciem następujących technologii:
 * Spring Boot/Spring Data/Postgresql (Docker) 
 * Angular lub Ract.js
 
-# Wymagania funkcjonalne aplikacji
+# Wymagania dotyczące aplikacji
 * aplikacja sprawdza co godzinę wskazany katalog i jeśli znajdzie w nim pliki json (przykład questions.json) importuje zawarte tam dane do bazy
 * aplikacja udostępnia api restowe umożliwiające:
     - rozpoczęcie nowego testu
